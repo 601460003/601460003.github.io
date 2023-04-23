@@ -1,2 +1,3 @@
 name: My Blog
 description: A simple blog powered by Jekyll
+theme: jekyll-theme-cayman
